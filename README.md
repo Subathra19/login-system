@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img width="350" height="500" src="https://github.com/Subathra19/login-system/blob/main/sample_screen_1.PNG">
+  <img width="350" height="500" src="https://github.com/Subathra19/login-system/blob/main/sample_screen_2.PNG">
 </p>
 
 ### Credits:
